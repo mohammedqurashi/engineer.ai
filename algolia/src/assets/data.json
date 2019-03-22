@@ -1,0 +1,792 @@
+{
+    "hits": [
+        {
+            "created_at": "2019-03-20T09:19:26.000Z",
+            "title": "Top public classifiers comparison for Santander Customer Transaction contest",
+            "url": "https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/84632",
+            "author": "stephanheijl",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553073566,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_stephanheijl",
+                "story_19440318"
+            ],
+            "objectID": "19440318",
+            "_highlightResult": {
+                "title": {
+                    "value": "Top public classifiers comparison for Santander Customer Transaction contest",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/84632",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "stephanheijl",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T09:13:40.000Z",
+            "title": "A peer-to-peer stack for code collaboration",
+            "url": "http://radicle.xyz/",
+            "author": "okket",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553073220,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_okket",
+                "story_19440303"
+            ],
+            "objectID": "19440303",
+            "_highlightResult": {
+                "title": {
+                    "value": "A peer-to-peer stack for code collaboration",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "http://radicle.xyz/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "okket",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T09:13:03.000Z",
+            "title": "A peer-to-peer stack for code collaboration",
+            "url": "https://github.com/radicle-dev/radicle",
+            "author": "okket",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553073183,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_okket",
+                "story_19440297"
+            ],
+            "objectID": "19440297",
+            "_highlightResult": {
+                "title": {
+                    "value": "A peer-to-peer stack for code collaboration",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://github.com/radicle-dev/radicle",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "okket",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T09:12:46.000Z",
+            "title": "The free, built-in VPN in the new Opera for Android 51",
+            "url": "https://blogs.opera.com/mobile/2019/03/introducing-the-free-built-in-vpn-in-the-new-opera-for-android-51/",
+            "author": "jmsflknr",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553073166,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_jmsflknr",
+                "story_19440296"
+            ],
+            "objectID": "19440296",
+            "_highlightResult": {
+                "title": {
+                    "value": "The free, built-in VPN in the new Opera for Android 51",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://blogs.opera.com/mobile/2019/03/introducing-the-free-built-in-vpn-in-the-new-opera-for-android-51/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "jmsflknr",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T09:11:06.000Z",
+            "title": "An exclusive look at an original iPhone prototype",
+            "url": "https://www.theverge.com/2019/3/19/18263844/apple-iphone-prototype-m68-original-development-board-red",
+            "author": "DyslexicAtheist",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553073066,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_DyslexicAtheist",
+                "story_19440291"
+            ],
+            "objectID": "19440291",
+            "_highlightResult": {
+                "title": {
+                    "value": "An exclusive look at an original iPhone prototype",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.theverge.com/2019/3/19/18263844/apple-iphone-prototype-m68-original-development-board-red",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "DyslexicAtheist",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T09:09:52.000Z",
+            "title": "Man Spends a Whole Week Using a Virtual Reality Headset",
+            "url": "https://digit.fyi/man-spends-week-in-virtual-reality/",
+            "author": "digighoul",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553072992,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_digighoul",
+                "story_19440281"
+            ],
+            "objectID": "19440281",
+            "_highlightResult": {
+                "title": {
+                    "value": "Man Spends a Whole Week Using a Virtual Reality Headset",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://digit.fyi/man-spends-week-in-virtual-reality/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "digighoul",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T09:09:14.000Z",
+            "title": "The FBI Had Already Accessed Family Tree DNA’s Database Before Cooperation",
+            "url": "https://www.forensicmag.com/news/2019/03/exclusive-fbi-had-already-accessed-family-tree-dnas-database-cooperation",
+            "author": "DyslexicAtheist",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553072954,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_DyslexicAtheist",
+                "story_19440275"
+            ],
+            "objectID": "19440275",
+            "_highlightResult": {
+                "title": {
+                    "value": "The FBI Had Already Accessed Family Tree DNA’s Database Before Cooperation",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.forensicmag.com/news/2019/03/exclusive-fbi-had-already-accessed-family-tree-dnas-database-cooperation",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "DyslexicAtheist",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T09:09:09.000Z",
+            "title": "FreeBSD Desktop – Part 18 – Global Dashboard",
+            "url": "https://vermaden.wordpress.com/2019/03/20/freebsd-desktop-part-18-global-dashboard/",
+            "author": "vermaden",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553072949,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_vermaden",
+                "story_19440273"
+            ],
+            "objectID": "19440273",
+            "_highlightResult": {
+                "title": {
+                    "value": "FreeBSD Desktop – Part 18 – Global Dashboard",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://vermaden.wordpress.com/2019/03/20/freebsd-desktop-part-18-global-dashboard/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "vermaden",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T09:08:16.000Z",
+            "title": "Discovering a zero day and getting code execution on Mozilla's AWS Network",
+            "url": "https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/",
+            "author": "DyslexicAtheist",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553072896,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_DyslexicAtheist",
+                "story_19440268"
+            ],
+            "objectID": "19440268",
+            "_highlightResult": {
+                "title": {
+                    "value": "Discovering a zero day and getting code execution on Mozilla's AWS Network",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "DyslexicAtheist",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T09:05:56.000Z",
+            "title": "Heat can act like sound wave when moving through pencil lead",
+            "url": "https://arstechnica.com/science/2019/03/mit-scientists-heat-can-act-like-sound-wave-when-moving-through-pencil-lead/",
+            "author": "Yossi_Frenkel",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553072756,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_Yossi_Frenkel",
+                "story_19440253"
+            ],
+            "objectID": "19440253",
+            "_highlightResult": {
+                "title": {
+                    "value": "Heat can act like sound wave when moving through pencil lead",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://arstechnica.com/science/2019/03/mit-scientists-heat-can-act-like-sound-wave-when-moving-through-pencil-lead/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "Yossi_Frenkel",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T09:02:51.000Z",
+            "title": "Outatime: Using Speculation to Enable Low-Latency Cloud Gaming (2014)",
+            "url": "https://www.microsoft.com/en-us/research/publication/outatime-using-speculation-to-enable-low-latency-continuous-interaction-for-cloud-gaming/",
+            "author": "PetitPrince",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553072571,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_PetitPrince",
+                "story_19440233"
+            ],
+            "objectID": "19440233",
+            "_highlightResult": {
+                "title": {
+                    "value": "Outatime: Using Speculation to Enable Low-Latency Cloud Gaming (2014)",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.microsoft.com/en-us/research/publication/outatime-using-speculation-to-enable-low-latency-continuous-interaction-for-cloud-gaming/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "PetitPrince",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T09:02:40.000Z",
+            "title": "A never-ending stream of AI art goes up for auction",
+            "url": "https://www.theverge.com/2019/3/5/18251267/ai-art-gans-mario-klingemann-auction-sothebys-technology",
+            "author": "bryanrasmussen",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553072560,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_bryanrasmussen",
+                "story_19440231"
+            ],
+            "objectID": "19440231",
+            "_highlightResult": {
+                "title": {
+                    "value": "A never-ending stream of AI art goes up for auction",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.theverge.com/2019/3/5/18251267/ai-art-gans-mario-klingemann-auction-sothebys-technology",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "bryanrasmussen",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T09:01:50.000Z",
+            "title": "An Exploration of ARM TrustZone Technology",
+            "url": "https://genode.org/documentation/articles/trustzone",
+            "author": "DyslexicAtheist",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553072510,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_DyslexicAtheist",
+                "story_19440226"
+            ],
+            "objectID": "19440226",
+            "_highlightResult": {
+                "title": {
+                    "value": "An Exploration of ARM TrustZone Technology",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://genode.org/documentation/articles/trustzone",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "DyslexicAtheist",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T09:00:28.000Z",
+            "title": "The fastest conventional random number generator that can pass Big Crush?",
+            "url": "https://lemire.me/blog/2019/03/19/the-fastest-conventional-random-number-generator-that-can-pass-big-crush/",
+            "author": "ingve",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553072428,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_ingve",
+                "story_19440218"
+            ],
+            "objectID": "19440218",
+            "_highlightResult": {
+                "title": {
+                    "value": "The fastest conventional random number generator that can pass Big Crush?",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://lemire.me/blog/2019/03/19/the-fastest-conventional-random-number-generator-that-can-pass-big-crush/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "ingve",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T08:58:54.000Z",
+            "title": "Who Still Buys Wite-Out, and Why?",
+            "url": "https://www.theatlantic.com/technology/archive/2019/03/who-still-buys-wite-out-and-why/567311/",
+            "author": "matt4077",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553072334,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_matt4077",
+                "story_19440210"
+            ],
+            "objectID": "19440210",
+            "_highlightResult": {
+                "title": {
+                    "value": "Who Still Buys Wite-Out, and Why?",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.theatlantic.com/technology/archive/2019/03/who-still-buys-wite-out-and-why/567311/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "matt4077",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T08:58:21.000Z",
+            "title": "The USB Armory: FOSS hardware design, implementing a flash drive sized computer",
+            "url": "https://inversepath.com/usbarmory",
+            "author": "DyslexicAtheist",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553072301,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_DyslexicAtheist",
+                "story_19440204"
+            ],
+            "objectID": "19440204",
+            "_highlightResult": {
+                "title": {
+                    "value": "The USB Armory: FOSS hardware design, implementing a flash drive sized computer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://inversepath.com/usbarmory",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "DyslexicAtheist",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T08:55:44.000Z",
+            "title": "USB armory Debian base image release 20190319",
+            "url": "https://github.com/inversepath/usbarmory-debian-base_image/releases/tag/20190319",
+            "author": "DyslexicAtheist",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553072144,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_DyslexicAtheist",
+                "story_19440186"
+            ],
+            "objectID": "19440186",
+            "_highlightResult": {
+                "title": {
+                    "value": "USB armory Debian base image release 20190319",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://github.com/inversepath/usbarmory-debian-base_image/releases/tag/20190319",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "DyslexicAtheist",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T08:53:25.000Z",
+            "title": "Google’s Stadia – The Cloud Promise Fulfilled",
+            "url": "https://sidstechcafe.com/googles-stadia-the-cloud-promise-fulfilled-d8f9d86b7f2",
+            "author": "sidcool",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553072005,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_sidcool",
+                "story_19440178"
+            ],
+            "objectID": "19440178",
+            "_highlightResult": {
+                "title": {
+                    "value": "Google’s Stadia – The Cloud Promise Fulfilled",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://sidstechcafe.com/googles-stadia-the-cloud-promise-fulfilled-d8f9d86b7f2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "sidcool",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T08:53:03.000Z",
+            "title": "From Smart to Intelligent Buildings",
+            "url": null,
+            "author": "bead",
+            "points": 1,
+            "story_text": "The effects of buildings on our lives are more than we think. We live over 50% of those time we spent in commercial buildings. According to a study, the next generation will be an ` Indoor Generation` and that makes much more important to make the buildings a part of our lives.\u003cp\u003eThe difference between today and a century ago is that We expect much more from the buildings. We want those buildings to be a part of our lives. We want to connect and feel the building.\u003cp\u003eAs Winston Churchill once said, “We shape our buildings; thereafter they shape us.”\nA smart building can help us to optimize our comfort levels in buildings. The automatic open and close HVAC systems, they open and close lights according to certain schedules. But is that enough? The problem is that smart buildings depend on human interaction. As long as we update the set points, we change the schedules smart buildings can be the technology for making our lives more comfortable and efficient. But we are living in the 21st century and the time we consume to optimize the building\u0026#x27;s technologies is not efficient anymore.\nWe need to see the buildings as living ecosystems which must generate data from inside of the building. Without the data which is generated throughout the building can make the buildings much more comfortable, sustainable and efficient. But that is not enough we need to integrate AI so that the data is used automatically by the building itself to operate its HVAC and lighting system.\u003cp\u003eIt is a very thin line between being smart and being Intelligent. We can not continue to use a smart building technology which was invented 50 years ago and didn\u0026#x27;t change too much yet. We need to leave the operation of the building to real-time data and AI so that we can focus on much more important things.\u003cp\u003eAgree or Disagree?",
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553071983,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_bead",
+                "story_19440177"
+            ],
+            "objectID": "19440177",
+            "_highlightResult": {
+                "title": {
+                    "value": "From Smart to Intelligent Buildings",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "bead",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "The effects of buildings on our lives are more than we think. We live over 50% of those time we spent in commercial buildings. According to a study, the next generation will be an ` Indoor Generation` and that makes much more important to make the buildings a part of our lives.\u003cp\u003eThe difference between today and a century ago is that We expect much more from the buildings. We want those buildings to be a part of our lives. We want to connect and feel the building.\u003cp\u003eAs Winston Churchill once said, “We shape our buildings; thereafter they shape us.”\nA smart building can help us to optimize our comfort levels in buildings. The automatic open and close HVAC systems, they open and close lights according to certain schedules. But is that enough? The problem is that smart buildings depend on human interaction. As long as we update the set points, we change the schedules smart buildings can be the technology for making our lives more comfortable and efficient. But we are living in the 21st century and the time we consume to optimize the building's technologies is not efficient anymore.\nWe need to see the buildings as living ecosystems which must generate data from inside of the building. Without the data which is generated throughout the building can make the buildings much more comfortable, sustainable and efficient. But that is not enough we need to integrate AI so that the data is used automatically by the building itself to operate its HVAC and lighting system.\u003cp\u003eIt is a very thin line between being smart and being Intelligent. We can not continue to use a smart building technology which was invented 50 years ago and didn't change too much yet. We need to leave the operation of the building to real-time data and AI so that we can focus on much more important things.\u003cp\u003eAgree or Disagree?",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-03-20T08:52:28.000Z",
+            "title": "U.S. Campaign to Ban Huawei Overseas Stumbles as Allies Resist",
+            "url": "https://www.nytimes.com/2019/03/17/us/politics/huawei-ban.html",
+            "author": "DyslexicAtheist",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1553071948,
+            "relevancy_score": 8721,
+            "_tags": [
+                "story",
+                "author_DyslexicAtheist",
+                "story_19440170"
+            ],
+            "objectID": "19440170",
+            "_highlightResult": {
+                "title": {
+                    "value": "U.S. Campaign to Ban Huawei Overseas Stumbles as Allies Resist",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.nytimes.com/2019/03/17/us/politics/huawei-ban.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "DyslexicAtheist",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }
+    ],
+    "nbHits": 1948203,
+    "page": 0,
+    "nbPages": 50,
+    "hitsPerPage": 20,
+    "processingTimeMS": 5,
+    "exhaustiveNbHits": false,
+    "query": "",
+    "params": "advancedSyntax=true\u0026analytics=false\u0026tags=story"
+}
